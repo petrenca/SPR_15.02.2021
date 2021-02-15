@@ -1,0 +1,57 @@
+#
+# Results on Monday February 15 2021 09:11:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. clickworkerID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. yes_key.
+# 19. item.
+# 20. type.
+# 21. version.
+# 22. letter.
+# 23. sentence.
+# 24. name.
+# 25. real_name.
+# 26. wrong_name.
+# 27. name_match.
+# 28. year.
+# 29. fact.
+# 30. photo.
+# 31. comp_q.
+# 32. comp_q_type.
+# 33. comp_q_answer.
+# 34. condition.
+# 35. life_mismatch.
+# 36. fact_mismatch.
+# 37. year_time.
+# 38. fact_time.
+# 39. year_fact.
+# 40. list.
+# 41. life_status.
+# 42. occupation.
+# 43. notice.
+# 44. about.
+# 45. easyhard.
+# 46. strategy.
+# 47. withsquare.
+# 48. Comments.
+1613380268,435c2dba81856542ff7c926a92d5c70a,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1613380258087,aliona,17 oder junger,&nbsp;m&auml;nnlich&nbsp;,nein,,yes_F,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,NULL
+1613380268,435c2dba81856542ff7c926a92d5c70a,PennController,0,0,demographics,NULL,DropDown,language,Selected,nein,1613380266676,aliona,17 oder junger,&nbsp;m&auml;nnlich&nbsp;,nein,,yes_F,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,0
+1613380268,435c2dba81856542ff7c926a92d5c70a,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1613380268466,aliona,17 oder junger,&nbsp;m&auml;nnlich&nbsp;,nein,,yes_F,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,NULL
